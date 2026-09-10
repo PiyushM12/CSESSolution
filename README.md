@@ -342,6 +342,7 @@ It motivates me to keep solving and adding more problems!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
+### This readme file is updated on every  **Sunday**
 ### Made with ❤️ and lots of ☕ by **Piyush**
 
 </div>
